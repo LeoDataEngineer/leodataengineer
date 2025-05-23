@@ -9,6 +9,8 @@
 ✔ I combine strong technical skills with business-oriented thinking – and I really enjoy working in multidisciplinary teams!<br>
 ✔  I’m open to collaborating on any open-source data science project – let’s build something great together!<br><br><br><br>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="left">
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
