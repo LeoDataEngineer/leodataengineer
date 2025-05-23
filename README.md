@@ -7,9 +7,9 @@
 ✔ I’ve worked on projects integrating multiple data sources to turn raw data into clear, actionable insights.<br>
 ✔ Passionate about process optimization, data quality, and creating smart solutions that support strategic decision-making.<br>
 ✔ I combine strong technical skills with business-oriented thinking – and I really enjoy working in multidisciplinary teams!<br>
-✔  I’m open to collaborating on any open-source data science project – let’s build something great together!<br><br>
+✔  I’m open to collaborating on any open-source data science project – let’s build something great together!<br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***<br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***<br><br>
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
