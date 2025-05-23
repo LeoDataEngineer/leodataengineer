@@ -4,10 +4,10 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ I design, develop, and maintain scalable data architectures – love building efficient data pipelines for collecting, transforming, and storing big data.<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ I’ve worked on projects integrating multiple data sources to turn raw data into clear, actionable insights.<br>
+✔ Passionate about process optimization, data quality, and creating smart solutions that support strategic decision-making.<br>
+✔ I combine strong technical skills with business-oriented thinking – and I really enjoy working in multidisciplinary teams!<br>
+✔  I’m open to collaborating on any open-source data science project – let’s build something great together!<br><br><br><br>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
