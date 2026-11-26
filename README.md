@@ -28,17 +28,18 @@
 ![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)
 
 
+- 🌱 I’m currently learning **distributed computing with Hadoop**.
+- 👯 I’m looking to collaborate on **open-source Data Engineering projects, end-to-end ETL/ELT pipelines, and data-intensive web applications**.
+- 🤔 I’m looking for help with **scaling real-time streaming architectures and high-performance query optimization**.
+- 💬 Ask me about **Python, SQL, PostgreSQL, BigQuery, dbt, DuckDB, Apache Kafka, and building analytics dashboards with Streamlit**.
+- 📫 How to reach me: **[Web](https://main.d2jhnjv89xsjwy.amplifyapp.com/)** | **leomarestradabsas@gmail.com**
 
 <p align="left">
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 
 
 <!--
